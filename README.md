@@ -32,7 +32,6 @@ Diploma in ICT (Applications Development)
 | **Databases** | MySQL, Firebase, MongoDB |
 | **Tools** | Git & GitHub, VS Code, Postman, Figma, Stripe API |
 
-
 ---
 
 ## 🏆 Highlights
@@ -69,6 +68,12 @@ Diploma in ICT (Applications Development)
 - Built clean UI with HTML/CSS/JS and a Go-powered backend with secure REST endpoints
 
 **Stack:** JavaScript, Go, HTML/CSS
+
+---
+
+## 🎤 Mock Interview Video
+
+📹 [Watch my Mock Interview](./mock-interview.mp4)
 
 ---
 
