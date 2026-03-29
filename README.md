@@ -11,7 +11,7 @@
 
 ## 🎯 Objective
 
-Third-year ICT student at CPUT seeking a WIL placement in Cape Town. I bring real client delivery experience alongside strong full-stack fundamentals — ready to contribute from day one.
+Third-year ICT student at CPUT seeking a WIL placement in Cape Town. I bring real client delivery experience alongside strong full-stack fundamentals ready to contribute from day one.
 
 ---
 
@@ -31,7 +31,7 @@ Diploma in ICT (Applications Development)
 | **Backend** | Java 21, Spring Boot, Spring Data JPA, Node.js, Express.js, REST APIs |
 | **Databases** | MySQL, Firebase, MongoDB |
 | **Tools** | Git & GitHub, VS Code, Postman, Figma, Stripe API |
-| **Soft Skills** | Problem-Solving, Communication, Agile/Scrum, Team Collaboration |
+
 
 ---
 
