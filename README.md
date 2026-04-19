@@ -123,10 +123,10 @@ Teacher
 As part of my Project Presentation 3 module, I was required to design my CV using Markdown language and host it on GitHub. Before this task, I had never written a CV in Markdown and was unfamiliar with how formatting worked in a plain-text environment.
 
 **Task:**
-My goal was to recreate my professional CV entirely in Markdown, making it readable, well-structured, and visually organised — without using any word processors or design tools.
+My goal was to recreate my professional CV entirely in Markdown, making it readable, well-structured, and visually organised without using any word processors or design tools.
 
 **Action:**
-I studied the basics of Markdown syntax, including how to use headings, tables, bullet points, bold text, and links. I then structured my CV section by section — starting with my contact details, objective, education, skills table, projects, and references. I used a table to present my technical skills clearly and added emojis to make sections visually distinct.
+I studied the basics of Markdown syntax, including how to use headings, tables, bullet points, bold text, and links. I then structured my CV section by section starting with my contact details, objective, education, skills table, projects, and references. I used a table to present my technical skills clearly and added emojis to make sections visually distinct.
 
 **Result:**
 I successfully coded my full CV in Markdown and committed it to my GitHub repository. I learned that Markdown is a powerful yet simple tool for formatting content on the web. It taught me to think about structure and readability in a new way, and I now understand why developers use it for documentation and README files.
@@ -138,7 +138,7 @@ I successfully coded my full CV in Markdown and committed it to my GitHub reposi
 As part of my career readiness training, I was required to record a mock interview video marketing myself to a potential employer. This was challenging because I had never formally recorded myself in an interview setting before and felt nervous about presenting on camera.
 
 **Task:**
-I needed to answer four interview questions confidently within a maximum of 2 minutes, dressed professionally, against a plain background — demonstrating my communication skills and ability to sell myself to an employer.
+I needed to answer four interview questions confidently within a maximum of 2 minutes, dressed professionally, against a plain background demonstrating my communication skills and ability to sell myself to an employer.
 
 **Action:**
 I prepared thoroughly by researching and crafting personalised answers to each question based on my actual projects and experience. I practised multiple times before recording, focusing on maintaining eye contact with the camera, speaking clearly, and staying within the time limit. I dressed in professional attire and chose a clean, plain background for the recording.
@@ -153,7 +153,7 @@ I completed the mock interview video and uploaded it to my GitHub portfolio. The
 After completing my CV in Markdown and recording my mock interview video, I needed to deploy my portfolio so it could be accessed publicly online. I had used GitHub before for version control but had never deployed a live website using GitHub Pages.
 
 **Task:**
-My task was to configure GitHub Pages on my repository so that my portfolio would be live and accessible via a public URL — specifically `Angel7Neo.github.io`.
+My task was to configure GitHub Pages on my repository so that my portfolio would be live and accessible via a public URL specifically `Angel7Neo.github.io`.
 
 **Action:**
 I navigated to my repository settings and located the Pages section. I selected the main branch as the source and saved the configuration. I then waited for GitHub to build and deploy the site. I verified the deployment by visiting the live URL and checking that my CV and embedded video were displaying correctly.
